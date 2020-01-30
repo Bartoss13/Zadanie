@@ -7,4 +7,8 @@ Zmiany Alice 2
 =======
 
 >>>>>>> 93efa95be254cd4ae61cdfde045133fd03d5d3b7
+<<<<<<< HEAD
 Zmina Bob 2
+=======
+Zmina 3
+>>>>>>> 1081180ed53f8187f00ebd66becca84e5ec63596
