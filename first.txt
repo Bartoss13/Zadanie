@@ -4,3 +4,4 @@ Zmiany Bob
 =======
 Zmiany Alice 1
 >>>>>>> 88d3305e42f9a348d0e2df9e7da453ddafc48545
+Zmiany Alice 2
