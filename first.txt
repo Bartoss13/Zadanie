@@ -7,3 +7,4 @@ Zmiany Alice 2
 =======
 
 >>>>>>> 93efa95be254cd4ae61cdfde045133fd03d5d3b7
+Zmina Bob 2
