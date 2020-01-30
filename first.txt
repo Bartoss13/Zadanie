@@ -1,7 +1,9 @@
 Plik tekstowy
-<<<<<<< HEAD
-Zmiany Bob
-=======
+
 Zmiany Alice 1
+<<<<<<< HEAD
 >>>>>>> 88d3305e42f9a348d0e2df9e7da453ddafc48545
 Zmiany Alice 2
+=======
+
+>>>>>>> 93efa95be254cd4ae61cdfde045133fd03d5d3b7
